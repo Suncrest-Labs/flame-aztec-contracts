@@ -4,14 +4,14 @@ Flame is in active development and welcomes contributions from the community!
 
 ## Reporting Issues
 
-Encountered a bug or noticed something missing? Please [open an issue](https://github.com/Suncrest-Labs/flame-noir-contracts/issues)!  
-Before doing so, search through the existing [issues](https://github.com/Suncrest-Labs/flame-noir-contracts/issues) to ensure it hasn’t already been reported.
+Encountered a bug or noticed something missing? Please [open an issue](https://github.com/Suncrest-Labs/flame-aztec-contracts/issues)!  
+Before doing so, search through the existing [issues](https://github.com/Suncrest-Labs/flame-aztec-contracts/issues) to ensure it hasn’t already been reported.
 
 ## How to Contribute
 
 ### Setting Up Your Environment
 
-Follow the [Noir Quick Start Guide](https://docs.aztec.network/developers/getting_started) to set up your local development environment.
+Follow the [Aztec Quick Start Guide](https://docs.aztec.network/developers/getting_started) to set up your local development environment.
 
 ### Picking an Issue
 

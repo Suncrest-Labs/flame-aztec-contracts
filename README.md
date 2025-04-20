@@ -1,6 +1,6 @@
-## Flame Noir Contracts
+## Flame Aztec Contracts
 
-Flame Noir Contracts is a collection of smart contracts for Flame Project, a decentralized socialfi  platform.
+Flame Aztec Contracts is a collection of smart contracts for Flame Project, a decentralized socialfi  platform.
 
 ## Contributions
 
