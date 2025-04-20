@@ -1,6 +1,0 @@
-[package]
-name = "flame_noir_contracts"
-type = "bin"
-authors = [""]
-
-[dependencies]

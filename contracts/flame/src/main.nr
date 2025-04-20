@@ -1,0 +1,2 @@
+#[aztec]
+pub Contract Flame {}
